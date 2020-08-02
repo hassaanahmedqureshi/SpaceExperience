@@ -18,4 +18,4 @@ User Mouse or Trackpad to change camera views; Left mouse drag - Rotate camera, 
 All images and audio clips used are sole property of NASA. This project is a non-commercial, non-distributable intended for semester project for Interactive Graphics course taught by Prof. Marco Schaerf at La Sapienza Rome, Italy.
 
 ## Link to project
-Use this [link](https://sapienzainteractivegraphicscourse.github.io/final-project-onecanvas/) to check out the project.
+Use this [link](https://hassaanahmedqureshi.github.io/SpaceExperience/) to check out the project.
